@@ -18,3 +18,4 @@ jobs:
           heroku_email: ifeanyinneji777@gmail.com 
           usedocker: true
           stack: container
+          dontuseforce: 1
