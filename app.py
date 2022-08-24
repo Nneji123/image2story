@@ -163,8 +163,8 @@ def memory(percentage=0.8):
         return wrapper
     return decorator
 
-@memory(percentage=0.20)
+@memory(percentage=0.80)
 def main():
-    print(f'My memory is limited to 20%.')
+    print(f'My memory is limited to 80%.')
 
 main()
