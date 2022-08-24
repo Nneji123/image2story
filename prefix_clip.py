@@ -270,3 +270,4 @@ def generate_caption(model_path, pil_image, use_beam_search):
         image_caption = generate2(model, tokenizer, embed=prefix_embed)
 
     return image_caption
+
