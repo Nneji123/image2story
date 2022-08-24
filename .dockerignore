@@ -1,5 +1,5 @@
-*.jpg
 __pycache__/
 app2.py
 README.md
 .gitattributes
+*.pt
