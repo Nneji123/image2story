@@ -1,0 +1,11 @@
+gdown==4.5.1
+numpy==1.23.2
+opencv_python_headless==4.6.0.66
+Pillow==9.2.0
+scikit-image
+git+https://github.com/openai/CLIP.git
+fastapi[all]
+torch==1.12.1
+tqdm==4.64.0
+transformers==4.21.1
+gunicorn
